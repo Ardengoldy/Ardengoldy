@@ -17,7 +17,4 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)](your-kaggle-link)
 📧 Email: ardengoldy.work@gmail.com
 
-git add README.md
-git commit -m "Update profile README"
-git push origin main
 

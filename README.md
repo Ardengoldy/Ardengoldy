@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋 I'm Arden
 
-<!--
-**Ardengoldy/Ardengoldy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student** at Universitas Amikom Yogyakarta  
+🔍 Passionate about **Data Science, Cybersecurity, and AI**  
+💡 Currently learning & exploring **Python, SQL, and Cybersecurity**  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Programming:** C++, Python, SQL, Bash
+- **Data Science:** Pandas, NumPy, Tableau, Matplotlib
+- **Tools:** Git, VS Code, Kaggle Notebook / Google Collab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Arden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ardengoldy&show_icons=true&theme=radical)
+
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-linkedin-link)
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)](your-kaggle-link)
+📧 Email: ardengoldy.work@gmail.com

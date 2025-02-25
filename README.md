@@ -13,8 +13,8 @@
 ![Arden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ardengoldy&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-linkedin-link)
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)](your-kaggle-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ardengoldy/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)](https://www.kaggle.com/ardengoldy)
 📧 Email: ardengoldy.work@gmail.com
 
 

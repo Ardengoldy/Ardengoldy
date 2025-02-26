@@ -1,10 +1,8 @@
 # Hi there! 👋 I'm Arden
 
 🎓 **Computer Science Student** at Universitas Amikom Yogyakarta
-
 💡 Currently learning & exploring **Data Science, Cybersecurity, and AI**
-
-🔍 Passionate about **Data, Tech, Security, And Finance**   
+🔍 Passionate about **Data, Tech, Security, And Finance**  
 
 ## 🚀 Skills
 - **Programming:** C++, Python, SQL, Bash

@@ -1,56 +1,58 @@
-# Hi there, I'm Aruu! 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=200&section=header&text=Aruu%20|%20Backend%20Engineer&fontSize=50&fontColor=ffffff" alt="Header" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:00ADD8&height=210&section=header&text=Aruu&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Informatics%20Student&descSize=18&descAlignY=55)
 
-### About Me
-I am an Informatics student and Backend Engineer with a strong focus on building scalable and efficient systems. I specialize in **Golang** and enjoy exploring new technologies to solve complex problems. 
+### Building reliable backend systems with Go
 
-- 🎓 Currently studying: **Informatics**
-- 🛠️ Focusing on: **Backend Development & System Analysis**
-- ⚙️ Daily Driver: **Linux**
-- 📈 Personal Interests: **Financial Markets** & **Gym**
+[![GitHub](https://img.shields.io/badge/GitHub-akuaruu-181717?style=flat-square&logo=github)](https://github.com/akuaruu)
 
----
+</div>
 
-### 🛠️ Tech Stack & Tools
+## About Me
 
-#### 💻 Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-</p>
+I'm an Informatics student focused on backend engineering and system analysis. I enjoy turning business requirements into maintainable APIs, with particular interest in clean architecture, database design, and reliable transaction flows.
 
-#### 🚀 Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/gin-%23008ECF.svg?style=for-the-badge&logo=gin&logoColor=white" alt="Gin" />
-  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React.js"/>
-  <img src="https://img.shields.io/badge/gRPC-%23244c5a.svg?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
-  <img src="https://img.shields.io/badge/fiber-%23111111.svg?style=for-the-badge&logo=go&logoColor=white" alt="Fiber" />
-</p>
+- Currently building backend services with **Go**
+- Comfortable working with **PostgreSQL** and **MySQL**
+- Experienced with REST APIs, JWT authentication, and SQL transactions
+- Daily-driving **Linux** and continuously improving my system design skills
+- Outside tech: financial markets and gym
 
-#### 🗄️ Databases & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+## Tech Stack
 
----
+### Languages & Frameworks
 
-### 🐍 Snake Contribution Map
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white)
+
+### Databases & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### Tools & Practices
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-0F172A?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+`Clean Architecture` · `Unit Testing` · `Database Transactions` · `API Documentation`
+
+## Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akuaruu/akuaruu/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akuaruu/akuaruu/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akuaruu/akuaruu/output/github-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/akuaruu/akuaruu/output/github-snake.svg">
 </picture>
-
----
-
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LINKEDIN_KAMU)
